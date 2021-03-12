@@ -1,0 +1,32 @@
+h4::before,
+h4::after {
+	content: "";
+	margin: 0 0px 0 0px;
+	flex: 1 0 20px;
+	height: 1px;
+	background: #ccc !important;
+	display: block;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	width: 50%;
+}
+h4::before {
+	left: 0;
+}
+h4::after {
+	right: 0;
+}
+h4 b {
+	background: #f9f9f9;
+	display: inline-block;
+	position: relative;
+	z-index: 1;
+	padding: 0 5px;
+}
+h4 {
+	width: 66.66666666666666%;
+	overflow: hidden;
+	display: block;
+	position: relative;
+}

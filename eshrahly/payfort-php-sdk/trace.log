@@ -1,0 +1,1255 @@
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 10000
+    [currency] => USD
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [merchant_reference] => 1050855476
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/payfort-php-sdk/route.php?r=processResponse
+    [signature] => 92f572820926171af0459edaf4d37a7a0eaa7c02fb1fe22a57798912bb250fa8
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 10000
+    [currency] => USD
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [merchant_reference] => 881860000
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/payfort-php-sdk/route.php?r=processResponse
+    [signature] => 1c4405c0e540f85b211fa92e685bcc53bf4082bc2f4036c7502e81b24673f6df
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 10000
+    [currency] => USD
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [merchant_reference] => 306387146
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/payfort-php-sdk/route.php?r=processResponse
+    [signature] => 66cac8c741b0d4108c9916930b17457705f387173f6cc78d1c499c57e72de00a
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 10000
+    [currency] => USD
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [merchant_reference] => 1293813048
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [signature] => afdee8a7080db77864c56577af3da85cdcb990db48350c78655ffc0d106217ae
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 10000
+    [currency] => USD
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [merchant_reference] => 1080675384
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [signature] => f6fee3d3327ca4e7de0548bf112118bf303bce1426c081c983844f8f4e4266df
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 10000
+    [response_code] => 00009
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid merchant identifier
+    [merchant_reference] => 1080675384
+    [customer_email] => test@payfort.com
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [currency] => USD
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: ee37932ec9308e6ad1353a5bc28d83226c6a7454931512f13f0cc1597109b9c9
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 10000
+    [currency] => USD
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [merchant_reference] => 1582371270
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [signature] => 6cae26bdd138aaafd5c2ca1e2ebb6eb7fee9611e5acd7b4d893190c148c3df64
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 10000
+    [response_code] => 00009
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid merchant identifier
+    [merchant_reference] => 1582371270
+    [customer_email] => test@payfort.com
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [currency] => USD
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: e03881ea59a1cf05e0133c794b6c5cfeb377f3cfaf318051268d61befa9e95a6
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 10000
+    [currency] => USD
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [merchant_reference] => 1207105133
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [signature] => 5bd9d115eb73ae2c404205b053948ddf112d718d9a2fe05d865ba56bfe62269b
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 10000
+    [response_code] => 00009
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid merchant identifier
+    [merchant_reference] => 1207105133
+    [customer_email] => test@payfort.com
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [currency] => USD
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: ab0367545ec5f00344878c863651f10ff0048f8e43fbd51755ad00e14f8f802a
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 10000
+    [currency] => USD
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [merchant_reference] => 1587530793
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [signature] => 081ba53bc55e1d0342d92f54cceaff87d2a35b6da332f773a8e499a89c893f4f
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 10000
+    [response_code] => 00009
+    [merchant_identifier] => MERCHANT_IDENTIFIER
+    [access_code] => ACCESS_CODE
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid merchant identifier
+    [merchant_reference] => 1587530793
+    [customer_email] => test@payfort.com
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [currency] => USD
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: d458eed73b773399b2a11a3145276ff8c5a917949bec6805115699a25a44a10b
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 10000
+    [currency] => USD
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => 1585926006
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [signature] => eb1bc849bee01d965e90b6a41cdb24b9a44fb24478e69723f4a1f675decdd015
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 10000
+    [response_code] => 00009
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid merchant identifier
+    [merchant_reference] => 1585926006
+    [customer_email] => test@payfort.com
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [currency] => USD
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: 18f9cc1bdb2c90383f264d6bb0dd6ec5bd0b376c8c44a44133141c414687673c
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000000
+    [currency] => AED
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/payfort-php-sdk/route.php?r=processResponse
+    [signature] => 521fdcce8c79c2011f774e870cd20db36633c24763ac89ffb9a8259e78a6c090
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000000
+    [currency] => SAR
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/payfort-php-sdk/route.php?r=processResponse
+    [payment_option] => SADAD
+    [signature] => 0d26946163689f712cdf9ae974af46b8cf6727b7df940b22acca0d961bb0ffe1
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000000
+    [currency] => AED
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/payfort-php-sdk/route.php?r=processResponse
+    [signature] => 521fdcce8c79c2011f774e870cd20db36633c24763ac89ffb9a8259e78a6c090
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 1000000
+    [response_code] => 00009
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [payment_option] => SADAD
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid merchant identifier
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [return_url] => http://eshrahly.net/payfort-php-sdk/route.php?r=processResponse
+    [currency] => SAR
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: cddc38d4844d76c10d022240120a25c45e1a30366b77582b8c2e391bc7f81874
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => 1942213714
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => d6bc528fb7fd406de835ea680c72724aab22a3174378bd9dcd9b3fe6ce7335b0
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => 1119888904
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 9f35971a57beeaa187d15f49bf443377f92e981e89eb3b31fc305516107b1d9b
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => 55695422
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => f474b78d7a065a4fffcf8438dca46176691d2896dc738a6c86bf799688d5b907
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => 1508092169
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 30bd8720b32fe2f4dd06494ad0c68ae837a00ae633575e6a87bdd57d7e0e32ec
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => 1445169465
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => ab9ffe07163b0c0d43bf4fa04072266d884d0d5bfcfa408ea90f085ecbd3d54b
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => 1624102909
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 072afce0ae3f20df1273c829939a3542f69610c2409e2fd459cad27fb8371ad4
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000000
+    [currency] => AED
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://eshrahly.net/payfort-php-sdk/route.php?r=processResponse
+    [installments] => STANDALONE
+    [signature] => eac32637e7175f4fcffc95e955acea5c8831cab1ff60dbf00af3bd2866f84982
+)
+
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000000
+    [currency] => AED
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [signature] => 93e375e6be26ee60791e39045c73836025539327e7643f3895972f0443fec0f2
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 1000000
+    [response_code] => 00009
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid merchant identifier
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: 86d34729cc249279d5f3d493e12e190768728628e5755c36a66c095f7c3223c0
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => 1038241156
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => fddfeaa3178f50e08649f850551e65562b2d20c3e759cd15fa09295e5f508954
+)
+
+
+========================================================
+
+Fort Merchant Page Response Parameters 
+Array
+(
+    [r] => merchantPageReturn
+    [response_code] => 00009
+    [card_holder_name] => sanjay
+    [card_number] => 455701******8902
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [expiry_date] => 2105
+    [language] => en
+    [service_command] => TOKENIZATION
+    [response_message] => Invalid merchant identifier
+    [merchant_reference] => 1038241156
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=merchantPageReturn
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: 537188c02f43de9c1620b8db972cfc7fe252f48744c4ed690e0f48817ec29d27
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000
+    [currency] => AED
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [signature] => ae7fd986390dcd14345c012adb2764029b7d4427fe0725a4ebad6de635d8ce42
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 1000
+    [response_code] => 00010
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid access code
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: f655ec30b576ad0bb1fc64f7fe255e8f6012f4f25df9a1806c18bd62a59d0a35
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000000
+    [currency] => AED
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [signature] => 93e375e6be26ee60791e39045c73836025539327e7643f3895972f0443fec0f2
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 1000000
+    [response_code] => 00009
+    [merchant_identifier] => CycHZxVj
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid merchant identifier
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: 86d34729cc249279d5f3d493e12e190768728628e5755c36a66c095f7c3223c0
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000
+    [currency] => AED
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [signature] => 3d3d542c598c0632e58c07578ae33b1a2b39563478eff030e44b167b16bd0076
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 1000
+    [response_code] => 00009
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid merchant identifier
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: e1ec41adf77c8366fc3021136dba9a8e5b32deef84775ebe9fcdab8f52697d43
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000
+    [currency] => AED
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [signature] => ae7fd986390dcd14345c012adb2764029b7d4427fe0725a4ebad6de635d8ce42
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 1000
+    [response_code] => 00009
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid merchant identifier
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: 42aadf109a07df683718303e19b8fa476792553a14ef44919e56cff6a96d0d20
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000
+    [currency] => AED
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [signature] => ae7fd986390dcd14345c012adb2764029b7d4427fe0725a4ebad6de635d8ce42
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 1000
+    [response_code] => 00009
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid merchant identifier
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: 42aadf109a07df683718303e19b8fa476792553a14ef44919e56cff6a96d0d20
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000
+    [currency] => AED
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [signature] => ae7fd986390dcd14345c012adb2764029b7d4427fe0725a4ebad6de635d8ce42
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 1000
+    [response_code] => 00010
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid access code
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: f655ec30b576ad0bb1fc64f7fe255e8f6012f4f25df9a1806c18bd62a59d0a35
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => 1941009906
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 700ce181ad2a8958c648089c6eba3e6899ac2c65729cd4633172c43ebf50c288
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => 556885775
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 331a9dc0598aae1eef79a8e3a526fd63c6cc14a266a3f0881b4976d0ee223b0e
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => 287368824
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => b8d953d08b5d8315e956533cff7b498564c47445cf465f80895f72b4cf848d78
+)
+
+
+========================================================
+
+Fort Merchant Page Response Parameters 
+Array
+(
+    [r] => merchantPageReturn
+    [response_code] => 00010
+    [service_command] => TOKENIZATION
+    [response_message] => Invalid access code
+    [merchant_identifier] => a6db2aea
+    [merchant_reference] => 287368824
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=merchantPageReturn
+    [language] => en
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: 0692c6a341192ed0ae972d04a0056bb86ed8f7ed09d04c12d1adee49a7a9c415
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000
+    [currency] => AED
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [signature] => ae7fd986390dcd14345c012adb2764029b7d4427fe0725a4ebad6de635d8ce42
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 1000
+    [response_code] => 00010
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid access code
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: f655ec30b576ad0bb1fc64f7fe255e8f6012f4f25df9a1806c18bd62a59d0a35
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000
+    [currency] => AED
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [signature] => ae7fd986390dcd14345c012adb2764029b7d4427fe0725a4ebad6de635d8ce42
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 1000
+    [response_code] => 00010
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Invalid access code
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: f655ec30b576ad0bb1fc64f7fe255e8f6012f4f25df9a1806c18bd62a59d0a35
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000
+    [currency] => AED
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [command] => PURCHASE
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [installments] => STANDALONE
+    [signature] => 5024220d1757c9dbf8577c9e68def7886b47f3a09d30f367ec0087aaeab428ff
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 1000
+    [response_code] => 00010
+    [merchant_identifier] => a6db2aea
+    [access_code] => zx0IPmPy5jp1vAz8Kpg7
+    [language] => en
+    [command] => PURCHASE
+    [response_message] => Invalid access code
+    [installments] => STANDALONE
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [currency] => AED
+    [status] => 00
+)
+
+
+========================================================
+
+Invalid Signature. Calculated Signature:  , Response Signature: 9ca12fcc50f5873c9df087ac05177c0480c0d9987042d692b86bd767a558e3a9
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000
+    [currency] => USD
+    [merchant_identifier] => a6db2aea
+    [access_code] => NcwSQENI6CrY8i9Xxozf
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [signature] => 19dd0d5af703695fc812ede521917b2232fba66c258bf3b39eb6d5405866461c
+)
+
+
+========================================================
+
+Fort Redirect Response Parameters 
+Array
+(
+    [r] => processResponse
+    [amount] => 1000
+    [response_code] => 00046
+    [signature] => c9364237d496c01e5c1b84ce675a9e3467ec951465ee607a98a44375ad2c41ce
+    [merchant_identifier] => a6db2aea
+    [access_code] => NcwSQENI6CrY8i9Xxozf
+    [language] => en
+    [command] => AUTHORIZATION
+    [response_message] => Channel not configured for selected payment option
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [currency] => USD
+    [status] => 00
+)
+
+
+========================================================
+
+Channel not configured for selected payment option
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => a6db2aea
+    [access_code] => NcwSQENI6CrY8i9Xxozf
+    [merchant_reference] => 759363599
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 4fb475f886c32b7dbb483a8c4990f83e80a954c7af206ff1e4f450b68ccda312
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => a6db2aea
+    [access_code] => NcwSQENI6CrY8i9Xxozf
+    [merchant_reference] => 1501586286
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 773e34c9ae3f33ad7bd6be8d9a9c720e98acc7132b4a9de0fc9f95be318d3459
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => a6db2aea
+    [access_code] => NcwSQENI6CrY8i9Xxozf
+    [merchant_reference] => 1685590238
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 546066a76cb4d801ee6bd2a283658e2c975ff249847728c6d8061bdae63c4db0
+)
+
+
+========================================================
+
+Fort Merchant Page Response Parameters 
+Array
+(
+    [r] => merchantPageReturn
+    [response_code] => 00046
+    [service_command] => TOKENIZATION
+    [response_message] => Channel not configured for selected payment option
+    [signature] => 450a199a637cf5ff8217e131cf4fbbce03ea50976c76fd230e22ad590652a75d
+    [merchant_identifier] => a6db2aea
+    [merchant_reference] => 1685590238
+    [access_code] => NcwSQENI6CrY8i9Xxozf
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=merchantPageReturn
+    [language] => en
+    [status] => 00
+)
+
+
+========================================================
+
+Channel not configured for selected payment option
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => a6db2aea
+    [access_code] => NcwSQENI6CrY8i9Xxozf
+    [merchant_reference] => 499365706
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 801505261ad7d1a5498e81a00ead9a1649f3e9acb2d2e1fff4505df667c4596e
+)
+
+
+========================================================
+
+Fort Merchant Page Response Parameters 
+Array
+(
+    [r] => merchantPageReturn
+    [response_code] => 00046
+    [card_number] => 400555******0001
+    [card_holder_name] => saa
+    [signature] => d6fffc39e7e1a59df8202031ecfb5029f07e56f14ff5241f76caa136d4000a71
+    [merchant_identifier] => a6db2aea
+    [expiry_date] => 2105
+    [access_code] => NcwSQENI6CrY8i9Xxozf
+    [language] => en
+    [service_command] => TOKENIZATION
+    [response_message] => Channel not configured for selected payment option
+    [merchant_reference] => 499365706
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=merchantPageReturn
+    [status] => 00
+)
+
+
+========================================================
+
+Channel not configured for selected payment option
+
+========================================================
+
+Fort Redirect Request Parameters 
+Array
+(
+    [amount] => 1000
+    [currency] => USD
+    [merchant_identifier] => a6db2aea
+    [access_code] => NcwSQENI6CrY8i9Xxozf
+    [merchant_reference] => XYZ9239-yu898
+    [customer_email] => test@payfort.com
+    [command] => AUTHORIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=processResponse
+    [signature] => 19dd0d5af703695fc812ede521917b2232fba66c258bf3b39eb6d5405866461c
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => a6db2aea
+    [access_code] => NcwSQENI6CrY8i9Xxozf
+    [merchant_reference] => 1006929136
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 85a1514a41942e13694c94e3408acceea4a998875bb61a28b085be400112f914
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => a6db2aea
+    [access_code] => NcwSQENI6CrY8i9Xxozf
+    [merchant_reference] => 1954936188
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => 0de5fecee156676bc09e965b5243334d60a015f8f60a442a9d8bae578419a206
+)
+
+
+========================================================
+
+Fort Merchant Page Request Parameters 
+Array
+(
+    [merchant_identifier] => a6db2aea
+    [access_code] => NcwSQENI6CrY8i9Xxozf
+    [merchant_reference] => 637023331
+    [service_command] => TOKENIZATION
+    [language] => en
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=merchantPageReturn
+    [signature] => b05b85bbca33c42417bd36759c5f0e5d2b6b036eede2107c6ce4d6f51a4f39da
+)
+
+
+========================================================
+
+Fort Merchant Page Response Parameters 
+Array
+(
+    [r] => merchantPageReturn
+    [response_code] => 00046
+    [service_command] => TOKENIZATION
+    [response_message] => Channel not configured for selected payment option
+    [signature] => 77184e904852fdc99f2c9dbbb565af5249f19b5fca2ba296cde9e7ee6b7b5c88
+    [merchant_identifier] => a6db2aea
+    [merchant_reference] => 637023331
+    [access_code] => NcwSQENI6CrY8i9Xxozf
+    [return_url] => http://eshrahly.net/eshrahly/payfort-php-sdk/route.php?r=merchantPageReturn
+    [language] => en
+    [status] => 00
+)
+
+
+========================================================
+
+Channel not configured for selected payment option
+
